@@ -1,5 +1,6 @@
-#![terraform-cloud-icon-filled-256](https://github.com/mtahran/Terraform-Tutorial/assets/126840633/7822797f-72b4-4447-922b-e8c7cddb5908)
-Terraform-Tutorial
+![terraform-cloud-icon-filled-256](https://github.com/mtahran/Terraform-Tutorial/assets/126840633/7822797f-72b4-4447-922b-e8c7cddb5908)
+
+#Terraform-Tutorial
 
 Useful Terraform Tutorial Folders from easy to hard.
 
