@@ -19,4 +19,8 @@ There is a reference on main.tf file. In the content argument, we refered to the
 Level-5
 An output is added on the main.tf for the ID of the pet_name.
 
+
+Level-10
+It creates a S3 bucket and 3 objects in it in AWS. The name of the bucket is a randomly chosen pet name of length 5, whereas the name of the objects are length 4. It calls the module of s3_bucket from AWS. It also gives output of bucket name and its ARN.
+
 MORE FOLDERS ARE COMING SOON!!! 
