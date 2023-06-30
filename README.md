@@ -23,4 +23,10 @@ An output is added on the main.tf for the ID of the pet_name.
 Level-10
 It creates a S3 bucket and 3 objects in it in AWS. The name of the bucket is a randomly chosen pet name of length 5, whereas the name of the objects are length 4. It calls the module of s3_bucket from AWS. It also gives output of bucket name and its ARN.
 
+Level-11
+It creates a droplet and a spaces bucket in Digital Ocean, and an EC2 and S3 Bucket in Amazon. There are also some outputs. There are no variables or data resource.
+
+Level-12
+It creates a droplet and a spaces bucket in Digital Ocean, and an EC2 and S3 Bucket in Amazon. Data resource and variables are added to.
+
 MORE FOLDERS ARE COMING SOON!!! 
